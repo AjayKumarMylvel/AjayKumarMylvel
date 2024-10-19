@@ -23,7 +23,7 @@ I’m eager to collaborate on **open-source projects** involving:
 <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img width="50" height="50" src="https://img.icons8.com/arcade/50/html-5.png" alt="html-5"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ### My LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ajaykumar_Mylvel?theme=dark&font=Manjari)](https://leetcode.com/u/Ajaykumar_Mylvel/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ajaykumar_Mylvel?theme=dark&font=Manjari&ext=contest)](https://leetcode.com/u/Ajaykumar_Mylvel/)
 
 ### My GitHub Readme Activity Graph
 [![AjayKumarMylvel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayKumarMylvel&bg_color=000000&color=ffffff&line=00fa1d&point=fbf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
